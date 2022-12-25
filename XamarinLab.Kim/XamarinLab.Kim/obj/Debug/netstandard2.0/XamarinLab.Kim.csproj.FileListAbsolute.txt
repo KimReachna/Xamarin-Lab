@@ -1,0 +1,14 @@
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/bin/Debug/netstandard2.0/XamarinLab.Kim.deps.json
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/bin/Debug/netstandard2.0/XamarinLab.Kim.dll
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/bin/Debug/netstandard2.0/ref/XamarinLab.Kim.dll
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/bin/Debug/netstandard2.0/XamarinLab.Kim.pdb
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.csproj.AssemblyReference.cache
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.AssemblyInfoInputs.cache
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.AssemblyInfo.cs
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.csproj.CoreCompileInputs.cache
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.dll
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/ref/XamarinLab.Kim.dll
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim/obj/Debug/netstandard2.0/XamarinLab.Kim.pdb

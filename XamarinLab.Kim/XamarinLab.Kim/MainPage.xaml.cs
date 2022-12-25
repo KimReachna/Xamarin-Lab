@@ -14,6 +14,11 @@ namespace XamarinLab.Kim
         {
             InitializeComponent();
         }
+
+        void Button_Pressed(System.Object sender, System.EventArgs e)
+        {
+            labelDate.Text = DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString();
+        }
     }
 }
 
