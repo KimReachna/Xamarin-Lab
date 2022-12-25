@@ -631,3 +631,8 @@
 /Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/android/src/mono/JavaInteropTypeManager.java
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/android/marshal_methods.arm64-v8a.o
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/android/marshal_methods.armeabi-v7a.o
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/android/marshal_methods.x86.o
+/Users/kimreachna/Projects/XamarinLab.Kim/XamarinLab.Kim/XamarinLab.Kim.Android/obj/Debug/android/marshal_methods.x86_64.o

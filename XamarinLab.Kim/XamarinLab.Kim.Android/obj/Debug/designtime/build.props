@@ -16,7 +16,7 @@ androidsdkpath=/users/kimreachna/library/android/sdk/
 androidndkpath=
 javasdkpath=/library/java/javavirtualmachines/microsoft-11.jdk/contents/home/
 androidsequencepointsmode=none
-xamarinandroidversion=13.1.0-1
+xamarinandroidversion=13.1.99-61
 monosymbolarchive=false
 androiduselatestplatformsdk=false
 targetframeworkversion=v13.0
@@ -32,3 +32,4 @@ armeabi-v7a
 x86
 x86_64
 androidmanifestplaceholders=
+projectfullpath=/users/kimreachna/projects/xamarinlab.kim/xamarinlab.kim/xamarinlab.kim.android/xamarinlab.kim.android.csproj
